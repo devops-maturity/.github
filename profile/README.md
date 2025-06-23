@@ -6,4 +6,8 @@
 
 DevOps Maturity provides both web and CLI tools to help you evaluate your DevOps practices, enhance your workflows, and earn a badge that reflects your progress.
 
+DevOps Maturity provides both web and CLI tools — available at [devops-maturity][devops-maturity] — to help you evaluate your DevOps practices, enhance your workflows, and earn a badge that reflects your progress.
+
 🏅 Earn your DevOps Maturity Badge — and celebrate your improvement journey!
+
+[devops-maturity]: https://github.com/devops-maturity/devops-maturity
