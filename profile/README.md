@@ -4,8 +4,6 @@
 
 [![Specification](https://img.shields.io/static/v1?label=Specification&message=devops-maturity.github.io&color=yellow)](https://devops-maturity.github.io/)
 
-DevOps Maturity provides both web and CLI tools to help you evaluate your DevOps practices, enhance your workflows, and earn a badge that reflects your progress.
-
 DevOps Maturity provides both web and CLI tools — available at [devops-maturity][devops-maturity] — to help you evaluate your DevOps practices, enhance your workflows, and earn a badge that reflects your progress.
 
 🏅 Earn your DevOps Maturity Badge — and celebrate your improvement journey!
